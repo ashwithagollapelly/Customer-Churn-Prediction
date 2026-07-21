@@ -58,5 +58,27 @@ Customer-Churn-Prediction/
 - Improve accuracy using XGBoost.
 - Create an interactive Power BI dashboard.
 
-## Author
-Ashwitha 
+
+## 📊 Project Visualizations
+
+### 1. Customer Churn Distribution
+
+![Customer Churn Distribution](images/churn_distribution.png)
+
+---
+
+### 2. Contract Type vs Customer Churn
+
+![Contract vs Churn](images/contract_vs_churn.png)
+
+---
+
+### 3. Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+---
+
+### 4. Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
